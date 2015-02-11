@@ -50,3 +50,7 @@ s.stop();
 ## Some math
 
 ![image](https://cloud.githubusercontent.com/assets/839700/3263201/224d98ec-f26f-11e3-971c-1e87f66a212f.JPG)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lastguest/siriwavejs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
